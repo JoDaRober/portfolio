@@ -1,0 +1,161 @@
+@font-face {
+    font-family: AldoTheApache;
+    src: url(/fonts/AldotheApache.ttf);
+}
+
+@font-face {
+    font-family: Square;
+    src: url(/fonts/Square.ttf);
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #4e5566;
+}
+
+.background {
+    //background: linear-gradient(#5d687a, #3e434f);
+    background: linear-gradient(#5d687a, #4e5566);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header-bar{
+    text-align: center;
+    padding: 25px;
+    color: white;
+    overflow: hidden;
+    font-size: 28pt;
+}
+
+.hyperlinks a{
+    color: white;
+    font-size: 24pt;
+}
+
+.hyperlinks a:not(:first-child){
+    border-left: 1px solid white;
+    padding-left: 18px;
+    margin-left: 12px;
+}
+
+.section-header {
+    background: linear-gradient(#1d617a, #0f2d39);
+    color: #fbfbfb;
+    width: 100%;
+    margin: 15px auto 15px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    display: block;
+    font-weight: bold;
+}
+
+.media-links {
+    float: right;
+}
+
+.header-bar .name{
+    font-family: AldoTheApache;
+    font-size: 38pt;
+    margin: 4px;
+    margin-top: 10px;
+}
+
+.header-bar .hyperlinks{
+    font-family: Square;
+}
+
+.h-divider {
+    border-top: 2px solid lightgray;
+    border-radius: 5px;
+    width: 35%;
+    box-shadow: 0 0 12px #676f82;
+    margin-bottom: 8px;
+}
+
+.info-block {
+    margin: 1.5em 4em;
+}
+
+.sub-info-block {
+    margin: 1.5em 6em;
+}
+
+.text-body {
+    padding: 24px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 1em;
+    margin-bottom: 5em;
+    padding-bottom: 60px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 0 6px #555555;
+    min-width: 600px;
+}
+
+.embedded-video {
+    display: block;
+    width: 560px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.pathless-logo {
+    width: 50%;
+    margin: 1em auto 15px;
+    border-radius: 10px;
+    display: block;
+}
+
+.video-label {
+    width: auto;
+    text-align: center;
+}
+
+form .btn {
+    float: right;
+    width: 120px;
+    box-shadow: 0 0 1px gray;
+}
+
+textarea {
+    resize: none;
+    width: 300px;
+    height: 150px;
+}
+
+#links-label {
+    padding: 5px;
+    border: 1px solid #5d687a;
+    border-radius: 4px;
+    box-shadow: 0 0 2px gray;
+}
+
+div.links {
+    margin-top: 20px;
+}
+
+.pathless-header {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.contact-form-result {
+    text-align: center;
+}
+
+.batch-image {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    display: block;
+    width: 75%;
+}

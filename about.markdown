@@ -25,4 +25,7 @@ Thanks for reading!
 
 ---
 
-> [LinkedIn](https://www.linkedin.com/in/robertsjd/) | [Resume](https://drive.google.com/file/d/1l67eje7YBadRbLcyHJ_rdV8J2UXG-5nH/view)
+#### [LinkedIn](https://www.linkedin.com/in/robertsjd/) \| [Resume](https://drive.google.com/file/d/1l67eje7YBadRbLcyHJ_rdV8J2UXG-5nH/view)
+
+
+

@@ -1,10 +1,10 @@
 @font-face {
-    font-family: AldoTheApache;
+    font-family: "AldoTheApache";
     src: url("../fonts/AldotheApache.ttf") format('truetype');
 }
 
 @font-face {
-    font-family: Square;
+    font-family: "Square";
     src: url("../fonts/Square.ttf") format('truetype');
 }
 

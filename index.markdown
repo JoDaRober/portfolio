@@ -7,7 +7,7 @@ Currently, I am working with multiple studios, including [Heart Machine](https:/
 
 My most recently released project was [The Pathless](https://www.thepathless.com) by [Giant Squid](https://www.giantsquidstudios.com), released on PC, Apple Arcade, PS4, and as a launch title for PS5.
 
-<img class="pathless-logo" src="images/PathlessCoverArt.png"/>
+![](images/PathlessCoverArt.png){: class="pathless-logo"}
 
 At Giant Squid I operated as the lead Character TD, the lead Art Tools / Pipeline Programmer, and headed the design and implementation of puzzle-related gameplay elements and levels.
 
